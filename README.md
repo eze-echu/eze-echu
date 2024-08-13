@@ -1,4 +1,8 @@
-## Hi there 👋
+## The Jack of al trades that can't fully decide what to use on his code.
+
+# Working on ways to stop wasting money
+# Hoping to god i won't have to use unity again (i swear this is the last time x4)
+# Fellas, i have bad news, i exposed the .env to the internet.
 
 <!--
 **eze-echu/eze-echu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
