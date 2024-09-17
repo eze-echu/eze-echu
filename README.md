@@ -18,7 +18,7 @@
     
   ![](https://github-readme-activity-graph.vercel.app/graph?username=eze-echu&theme=tokyo-night) <br/>
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/ezequielo?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/eze_echu?theme=auto&font=baloo&extension=null)
     </div>
 </details>
 
